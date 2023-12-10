@@ -1,6 +1,5 @@
-package Inheritance_2;
+package Polymorphism;
 
-import java.awt.*;
 import java.util.Scanner;
 
 public class Publication {

@@ -1,4 +1,4 @@
-package Inheritance_2;
+package Polymorphism;
 
 public class Book extends Publication{
     private String author;
